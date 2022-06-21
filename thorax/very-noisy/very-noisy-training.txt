@@ -1,0 +1,91 @@
+/00_01_13_Thorax_Happy.wav|Of course i am silly!.wav
+/00_01_18_Thorax_Happy.wav|Hey twilight..wav
+/00_01_19_Thorax_Happy.wav|Hey starlight..wav
+/00_01_23_Thorax_Happy.wav|I can't believe you did all this for me..wav
+/00_01_23_Thorax_Neutral.wav|Oh, i-i can probably explain..wav
+/00_01_26_Thorax_Happy.wav|Great banner!.wav
+/00_01_27_Thorax_Happy.wav|Love the stage!.wav
+/00_01_29_Thorax_Neutral.wav|What's this flame thingy_.wav
+/00_01_31_Thorax_Happy.wav|Oh it's pretty..wav
+/00_01_44_Thorax_Anxious.wav|Actually..wav
+/00_02_05_Thorax_Anxious.wav|The thing about magic here is..wav
+/00_02_44_Thorax_Happy.wav|Spike, i'm so glad you invited me..wav
+/00_02_47_Thorax_Happy.wav|You are one of my closest nicest most caring Most understanding friends ever..wav
+/00_04_00_Thorax_Neutral.wav|I'll definitely remember it..wav
+/00_04_05_Thorax_Neutral.wav|Yep. pharynx is my elder, brood mate..wav
+/00_04_26_Thorax_Neutral.wav|It's a changeling hive. it shifts and changes like we do..wav
+/00_04_30_Thorax_Neutral.wav|And we're the only ones who can navigate it..wav
+/00_04_32_Thorax_Neutral.wav|It's, total chaos to non changelings..wav
+/00_04_48_Thorax_Neutral.wav|Swing dancing,..wav
+/00_04_59_Thorax_Happy.wav|This guy!.wav
+/00_05_30_Thorax_Annoyed.wav|ocellus!.wav
+/00_05_31_Thorax_Neutral.wav|pharynx used to be head of patrol..wav
+/00_05_35_Thorax_Anxious.wav|there you are! the hive has been worried sick!.wav
+/00_05_38_Thorax_Anxious.wav|Why did you leave without telling us_.wav
+/00_05_40_Thorax_Anxious.wav|The last time you and your friends did that, It almost brought our kingdoms to war!.wav
+/00_05_41_Thorax_Neutral.wav|It's a bit, overwhelming. but we're adjusting..wav
+/00_05_48_Thorax_Neutral.wav|Well, next time, ask before you run off..wav
+/00_05_51_Thorax_Neutral.wav|Now c'mon, let's go home..wav
+/00_05_54_Thorax_Neutral.wav|um guys_.wav
+/00_05_57_Thorax_Anxious.wav|I think we're lost..wav
+/00_06_00_Thorax_Neutral.wav|but she's not a dragon..wav
+/00_06_02_Thorax_Neutral.wav|You know what i mean..wav
+/00_06_18_Thorax_Neutral.wav|oh, I have to head outside..wav
+/00_06_20_Thorax_Neutral.wav|You're sure you're ok handling pharynx_.wav
+/00_06_35_Thorax_Neutral.wav|I guess so..wav
+/00_07_04_Thorax_Anxious.wav|A changeling patrol!.wav
+/00_07_53_Thorax_Neutral.wav|The ice is pretty slippery..wav
+/00_08_02_Thorax_Anxious.wav|If any creature blames the changelings for this..wav
+/00_08_12_Thorax_Neutral.wav|Evil_ oh not me. all i've ever wanted is a friend..wav
+/00_08_17_Thorax_Sad.wav|From the moment i first split my egg in the nursery hive..wav
+/00_08_19_Thorax_Neutral.wav|Good thinking, starlight!.wav
+/00_08_32_Thorax_Sad.wav|I, was, part of the attack on canterlot During the royal wedding..wav
+/00_08_37_Thorax_Neutral.wav|But i'd never seen true friendship like that..wav
+/00_08_39_Thorax_Neutral.wav|And i couldn't just, steal it and feed on its love. I wanted to share it!.wav
+/00_08_53_Thorax_Anxious.wav|Ocellus!.wav
+/00_08_59_Thorax_Anxious.wav|It's what drew me here, but it's driving me crazy!.wav
+/00_09_19_Thorax_Neutral.wav|A changeling..wav
+/00_10_40_Thorax_Neutral.wav|Is there a dining room in the castle_.wav
+/00_11_29_Thorax_Happy.wav|So so what did they say_ how many new friends do i have_.wav
+/00_11_53_Thorax_Neutral.wav|hey this is how we've been doing things For hundreds of years..wav
+/00_11_56_Thorax_Neutral.wav|it's like they don't want to, even though I'm the leader..wav
+/00_12_08_Thorax_Sad.wav|It's about pharynx, isn't it_.wav
+/00_12_28_Thorax_Sad.wav|every young changeling except me..wav
+/00_13_03_Thorax_Neutral.wav|You know i think my leadership problems started in childhood..wav
+/00_13_10_Thorax_Neutral.wav|But the story about my brother was when i was two..wav
+/00_14_24_Thorax_Happy.wav|Oh she's so beautiful!.wav
+/00_14_27_Thorax_Happy.wav|There's so much love around her..wav
+/00_14_50_Thorax_Angry.wav|Hey! no one yells at my friend!.wav
+/00_15_29_Thorax_Anxious.wav|But instead he's out there alone Somewhere between us and that rampaging monster_.wav
+/00_15_33_Thorax_Anxious.wav|I have to save him..wav
+/00_15_55_Thorax_Neutral.wav|Fine..wav
+/00_15_56_Thorax_Sad.wav|Leave me alone!.wav
+/00_16_32_Thorax_Confused.wav|What are you going to do_.wav
+/00_16_46_Thorax_Neutral.wav|I can't blame them..wav
+/00_16_47_Thorax_Neutral.wav|If he wasn't my brother, i don't think i'd be here..wav
+/00_16_50_Thorax_Neutral.wav|We're going to have to face the maulwurf by ourselves..wav
+/00_16_58_Thorax_Anxious.wav|I can feel the love inside me slipping away..wav
+/00_17_02_Thorax_Anxious.wav|I can't hold onto it much longer..wav
+/00_17_15_Thorax_Anxious.wav|Pharynx!.wav
+/00_17_29_Thorax_Happy.wav|Whoa, that just gave me chills..wav
+/00_17_36_Thorax_Anxious.wav|I may have forgot to mention in my letters that maulwurfs Have really thick hides..wav
+/00_17_58_Thorax_Neutral.wav|So, what's your deal_.wav
+/00_18_13_Thorax_Anxious.wav|It's no use!.wav
+/00_18_14_Thorax_Anxious.wav|We're out of practice and he's too tough!.wav
+/00_18_19_Thorax_Confused.wav|how did that help_.wav
+/00_18_26_Thorax_Anxious.wav|Right but uh how do you think they feel_.wav
+/00_18_30_Thorax_Anxious.wav|Now is not the time to make fun of me pharynx!.wav
+/00_18_33_Thorax_Happy.wav|Oh! right! of course!.wav
+/00_18_38_Thorax_Neutral.wav|there's no help coming from the crystal empire..wav
+/00_18_44_Thorax_Neutral.wav|Yeah maulwurf, Why are you hitting yourself_.wav
+/00_18_48_Thorax_Neutral.wav|Why are you hitting yourself_.wav
+/00_18_52_Thorax_Neutral.wav|I guess they do..wav
+/00_18_55_Thorax_Neutral.wav|You know you don't have to be sappy or huggy feely about it..wav
+/00_19_01_Thorax_Neutral.wav|You were there when spike defended me to the ponies Of the crystal empire..wav
+/00_19_05_Thorax_Neutral.wav|Where_.wav
+/00_19_06_Thorax_Neutral.wav|Oh, spike..wav
+/00_19_06_Thorax_Neutral.wav|Princess twilight said..wav
+/00_19_12_Thorax_Sad Anxious.wav|Oh..wav
+/00_19_30_Thorax_Neutral.wav|Hi, it's a pleasure to..wav
+/00_19_57_Thorax_Annoyed.wav|Yeah! and i have no problem telling you What you did was wrong Because my friend ember, Is helping me be more assertive..wav
+/00_20_44_Thorax_Sad.wav|We're used to it..wav

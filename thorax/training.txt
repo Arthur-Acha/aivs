@@ -1,0 +1,96 @@
+clean/00_01_15_Thorax_Neutral.wav|You invited me, and i'm not one to back out of an invitation
+clean/00_03_14_Thorax_Surprised.wav|Starlight_
+clean/00_03_15_Thorax_Surprised.wav|Trixie_
+clean/00_03_16_Thorax_Neutral.wav|It's ok pharynx
+clean/00_03_17_Thorax_Neutral.wav|You can let them go
+clean/00_03_28_Thorax_Neutral.wav|We don't do that anymore
+clean/00_03_38_Thorax_Anxious.wav|What are you two doing here_
+clean/00_03_43_Thorax_Happy.wav|Well, it's great to see you
+clean/00_03_46_Thorax_Anxious.wav|I'm, sorry about the welcome committee
+clean/00_03_56_Thorax_Neutral.wav|Oh, she did. really helpful
+clean/00_03_58_Thorax_Neutral.wav|I was able to convince all of them to change eh, except one of them
+clean/00_03_59_Thorax_Neutral.wav|Aren't you coming_
+clean/00_04_03_Thorax_Sad.wav|My brother
+clean/00_04_23_Thorax_Anxious.wav|Stop doing that!
+clean/00_04_41_Thorax_Neutral.wav|I'm trying to start some new activities since the only thing We did before was hunt and patrol
+clean/00_04_51_Thorax_Happy.wav|A once a week potluck lunch
+clean/00_05_17_Thorax_Neutral.wav|I promise i'll talk to him
+clean/00_05_34_Thorax_Neutral.wav|But now we're peaceful and there's no need to patrol So, he just stalks around the hive making everyone miserable
+clean/00_05_41_Thorax_Neutral.wav|The other changelings are sick of it and if i can't get him To accept love and friendship and change like the rest of us
+clean/00_05_47_Thorax_Anxious.wav|Everything i've done here is at risk
+clean/00_06_00_Thorax_Happy.wav|Do you really think you could help_
+clean/00_06_11_Thorax_Neutral.wav|Actually, i haven't been since i met spike
+clean/00_06_15_Thorax_Neutral.wav|And changelings are always hungry
+clean/00_06_17_Thorax_Neutral.wav|We can never get enough love
+clean/00_06_25_Thorax_Neutral.wav|Once i made a few friends, i guess i just sort of
+clean/00_07_03_Thorax_Neutral.wav|This castle visit is getting weird
+clean/00_07_06_Thorax_Neutral.wav|Twilight really likes chairs
+clean/00_07_11_Thorax_Neutral.wav|What happened to the ice cream_
+clean/00_08_01_Thorax_Sad.wav|It's ok. i know you don't want to be friends
+clean/00_08_06_Thorax_Neutral.wav|That was a pretty good plan
+clean/00_08_28_Thorax_Neutral.wav|How'd it go with pharynx_
+clean/00_08_34_Thorax_Sad.wav|That bad huh_
+clean/00_08_37_Thorax_Neutral.wav|You want to talk it out_
+clean/00_08_43_Thorax_Neutral.wav|oh, It's a place for changelings to express their feelings So we all gain a better understanding of each other
+clean/00_08_46_Thorax_Sad.wav|After that i knew i couldn't live with my kind anymore
+clean/00_08_50_Thorax_Neutral.wav|It's really helped bring the hive closer together
+clean/00_08_56_Thorax_Anxious.wav|And there's so much love in the crystal empire right now
+clean/00_08_59_Thorax_Neutral.wav|I told you, Stay in your own form
+clean/00_09_01_Thorax_Neutral.wav|It's the polite thing to do
+clean/00_09_03_Thorax_Anxious.wav|uh Sorry er, she's shy
+clean/00_09_14_Thorax_Neutral.wav|If i had a friend, maybe the love we shared could sustain me but
+clean/00_09_18_Thorax_Neutral.wav|i don't think the crystal ponies want to be friends
+clean/00_09_29_Thorax_Sad.wav|If only that were true
+clean/00_09_42_Thorax_Neutral.wav|No, but i was raised by an evil queen. i'm thorax
+clean/00_09_44_Thorax_Neutral.wav|Everyone please, i understand pharynx Can be challenging at times
+clean/00_09_46_Thorax_Happy.wav|I can't believe you want to help me
+clean/00_10_00_Thorax_Anxious.wav|Do you still want to be my friend_
+clean/00_10_31_Thorax_Annoyed.wav|He said he'd be right back
+clean/00_10_40_Thorax_Anxious.wav|I can't do that
+clean/00_11_11_Thorax_Anxious.wav|We can't wait for discord. between seeing him and trixie, The castle will be crawling with guards soon
+clean/00_11_33_Thorax_Neutral.wav|First of all, i want to say thank you for having me over
+clean/00_11_39_Thorax_Sad.wav|Uh, i understand. well thanks for trying
+clean/00_11_44_Thorax_Neutral.wav|Here's my problem
+clean/00_11_45_Thorax_Neutral.wav|there's this renegade group of changelings Who still feed off of love
+clean/00_11_49_Thorax_Neutral.wav|Even though i said, hey let's not do that anymore, they say
+clean/00_12_14_Thorax_Neutral.wav|Look, i know he's an aggressive warrior type But, when i was little, every young changeling Wanted to be like that
+clean/00_12_27_Thorax_Anxious.wav|Nice to meet you
+clean/00_12_34_Thorax_Anxious.wav|Oh uh, spike and i go way back
+clean/00_12_53_Thorax_Neutral.wav|I like to brag to all my friends about my letters From spike the brave and glorious
+clean/00_13_08_Thorax_Neutral.wav|A-and you definitely gotta hear it
+clean/00_13_13_Thorax_Neutral.wav|Or was i one_
+clean/00_13_21_Thorax_Neutral.wav|I know pharynx loved me, in his own way
+clean/00_13_24_Thorax_Neutral.wav|And i know there's still good in him
+clean/00_13_26_Thorax_Neutral.wav|That's why i keep sticking up for him
+clean/00_13_49_Thorax_Neutral.wav|Hey, that was really great advice
+clean/00_13_52_Thorax_Neutral.wav|So what do you think i should do_
+clean/00_14_05_Thorax_Annoyed.wav|Great. no problem
+clean/00_14_09_Thorax_Sad.wav|It's fine
+clean/00_15_05_Thorax_Angry.wav|Not anymore!
+clean/00_15_12_Thorax_Anxious Confused.wav|That doesn't make any sense
+clean/00_15_14_Thorax_Anxious.wav|The trail of plants should have lead the dread maulwurf away
+clean/00_15_28_Thorax_Annoyed Tired.wav|Back away spike, i'm not going to let this dragon Harm a scale on your back
+clean/00_15_39_Thorax_Angry.wav|Yeah!
+clean/00_15_40_Thorax_Anxious.wav|The changelings won't fool them forever. And I don't know how long the unicorns' shield will hold
+clean/00_15_43_Thorax_Confused.wav|What_
+clean/00_16_21_Thorax_Sad.wav|It's ok. i know it's hard
+clean/00_16_23_Thorax_Sad.wav|Everyone in the crystal empire loves you
+clean/00_16_27_Thorax_Sad.wav|I couldn't ask you to give that up for me
+clean/00_16_38_Thorax_Sad.wav|No no, it's cool
+clean/00_16_39_Thorax_Sad.wav|You thought i'd be too soft and someone like ember Would never respect me
+clean/00_16_43_Thorax_Sad Annoyed.wav|just like my own changelings
+clean/00_17_18_Thorax_Neutral.wav|I'm here to save you!
+clean/00_17_21_Thorax_Anxious.wav|i-i even offered a prize and
+clean/00_17_39_Thorax_Anxious.wav|when i'm just enforcing my rules, i, i feel unsure of myself
+clean/00_17_55_Thorax_Neutral.wav|That's good advice
+clean/00_18_47_Thorax_Neutral.wav|Talking about your feelings does
+clean/00_18_47_Thorax_Neutral.wav|Yes
+clean/00_19_08_Thorax_Neutral.wav|I got there
+clean/00_19_35_Thorax_Neutral.wav|Now maybe try to be more specific
+clean/00_19_54_Thorax_Neutral.wav|And who better to help us do that than the only changeling Who never stopped protecting us_
+clean/00_20_06_Thorax_Neutral.wav|Unless you still want to leave the hive
+clean/00_20_32_Thorax_Happy.wav|Thank you
+clean/00_21_01_Thorax_Happy.wav|That'd be so amazing! i want to know all about friendship
+clean/00_21_04_Thorax_Neutral.wav|And maybe one day i can take that knowledge back To the changeling kingdom
+clean/00_21_08_Thorax_Happy.wav|If my kind learned how to create love for one another
+clean/00_21_12_Thorax_Happy.wav|Maybe they wouldn't have to take it from others!
